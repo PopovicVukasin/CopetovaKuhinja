@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1026964345129",
+    "firebase_url": "https://copetova-kuhinja-default-rtdb.firebaseio.com",
+    "project_id": "copetova-kuhinja",
+    "storage_bucket": "copetova-kuhinja.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026964345129:android:c8396c361f8c5cada1a738",
+        "android_client_info": {
+          "package_name": "com.example.copetovakuhinja"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1026964345129-27c1m0j3nfg64aheu1jft6mov6283fj2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.copetovakuhinja",
+            "certificate_hash": "5ebc3db49629f6a846c51da8d6ded11a67737bb9"
+          }
+        },
+        {
+          "client_id": "1026964345129-5p41f8ddluct2pe0mcmjn7il6ak8inu3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsGEuq_f3-WX5byjUGZmUhrm0wBlCL9zE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1026964345129-5p41f8ddluct2pe0mcmjn7il6ak8inu3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
